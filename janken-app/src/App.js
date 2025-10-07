@@ -76,7 +76,7 @@ function App() {
   return (
     <div className="App">
       <header className="app-header">
-        <h1>🎮 ジャンケンゲーム 🎮</h1>
+        <h1>🎮 じゃんけん対戦 🎮</h1>
         <p>相手を選んでジャンケンしよう！</p>
       </header>
 

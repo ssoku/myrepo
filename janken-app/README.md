@@ -1,4 +1,4 @@
-# ジャンケンゲーム (Rock Paper Scissors Game)
+# じゃんけん対戦 (Rock Paper Scissors Battle)
 
 A beautiful and interactive Rock-Paper-Scissors game built with React.
 
@@ -46,4 +46,4 @@ A beautiful and interactive Rock-Paper-Scissors game built with React.
 - CSS3 (Flexbox, Grid, Animations)
 - Modern JavaScript (ES6+)
 
-Enjoy playing ジャンケン! 🎉
+Enjoy playing じゃんけん対戦! 🎉
